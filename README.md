@@ -14,7 +14,6 @@ License Generator (100%)
 
 
 # PRINT
-
 ![imagem_2021-02-27_131737](https://user-images.githubusercontent.com/79727598/109392998-286a1800-78fe-11eb-8685-c8cdf425cd3e.png)
 
 

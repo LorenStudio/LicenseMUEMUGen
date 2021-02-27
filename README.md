@@ -6,9 +6,11 @@ User Generator (100%)
 
 License Generator (100%)
 ```
+# TUTORIAL SOURCE
+1- Install NuGet Package  "System.Data.Common Ver 4.3.0", "System.Data.SqlClient Ver 4.8.2"
 
-
-# TUTORIAL
+2- Enjoy ^^
+# TUTORIAL SOFTWARE
 
 [![Watch the video](https://i.imgur.com/ewZypYv.png)](https://www.youtube.com/watch?v=mGvhNDoO0Mw)
 

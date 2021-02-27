@@ -1,0 +1,15 @@
+C:\Users\Rodrigo\source\repos\LorenLicenseSystem\LorenLicenseSystem\bin\Debug\LorenLicenseSystem.exe.config
+C:\Users\Rodrigo\source\repos\LorenLicenseSystem\LorenLicenseSystem\bin\Debug\LorenLicenseSystem.exe
+C:\Users\Rodrigo\source\repos\LorenLicenseSystem\LorenLicenseSystem\bin\Debug\LorenLicenseSystem.pdb
+C:\Users\Rodrigo\source\repos\LorenLicenseSystem\LorenLicenseSystem\obj\Debug\LorenLicenseSystem.csprojAssemblyReference.cache
+C:\Users\Rodrigo\source\repos\LorenLicenseSystem\LorenLicenseSystem\obj\Debug\LorenLicenseSystem.Form1.resources
+C:\Users\Rodrigo\source\repos\LorenLicenseSystem\LorenLicenseSystem\obj\Debug\LorenLicenseSystem.Properties.Resources.resources
+C:\Users\Rodrigo\source\repos\LorenLicenseSystem\LorenLicenseSystem\obj\Debug\LorenLicenseSystem.csproj.GenerateResource.cache
+C:\Users\Rodrigo\source\repos\LorenLicenseSystem\LorenLicenseSystem\obj\Debug\LorenLicenseSystem.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo\source\repos\LorenLicenseSystem\LorenLicenseSystem\obj\Debug\LorenLicenseSystem.exe
+C:\Users\Rodrigo\source\repos\LorenLicenseSystem\LorenLicenseSystem\obj\Debug\LorenLicenseSystem.pdb
+C:\Users\Rodrigo\source\repos\LorenLicenseSystem\LorenLicenseSystem\bin\Debug\System.Data.Common.dll
+C:\Users\Rodrigo\source\repos\LorenLicenseSystem\LorenLicenseSystem\bin\Debug\System.Data.SqlClient.dll
+C:\Users\Rodrigo\source\repos\LorenLicenseSystem\LorenLicenseSystem\obj\Debug\LorenLicenseSystem.csproj.CopyComplete
+C:\Users\Rodrigo\source\repos\LorenLicenseSystem\LorenLicenseSystem\obj\Debug\LorenLicenseSystem.Licença.resources
+C:\Users\Rodrigo\source\repos\LorenLicenseSystem\LorenLicenseSystem\obj\Debug\LorenLicenseSystem.About.resources

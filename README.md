@@ -1,0 +1,2 @@
+# LicenseMUEMUGen
+Muemu License Generator

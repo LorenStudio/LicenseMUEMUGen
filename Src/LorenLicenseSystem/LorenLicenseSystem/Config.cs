@@ -10,7 +10,7 @@ namespace LorenLicenseSystem
 {
     public static class Config
     {
-        public static string dbName, dbHost, dbUser, dbPass, hosIp;
+        public static string dbName, dbHost, dbUser, dbPass;
 
         public static void LoadDB()
         {

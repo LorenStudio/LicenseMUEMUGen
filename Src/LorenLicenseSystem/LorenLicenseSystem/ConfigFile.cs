@@ -1,7 +1,8 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.IO;
 using System.Data.SqlClient;
+using System.Windows.Forms;
 
 namespace LorenLicenseSystem
 {
@@ -20,7 +21,7 @@ namespace LorenLicenseSystem
             }
             catch (Exception ex)
             {
-               // Logger.Error("[ConfigFile] " + ex.ToString());
+               MessageBox.Show("[ConfigFile] " + ex.ToString());
             }
         }
 
@@ -44,7 +45,7 @@ namespace LorenLicenseSystem
             }
             catch (Exception ex)
             {
-              // Logger.Error(ex.ToString());
+                MessageBox.Show(ex.ToString());
             }
         }
         public float readFloat(string value, float defaultprop)
@@ -175,7 +176,7 @@ namespace LorenLicenseSystem
         }
         private void Error(string parameter)
         {
-           // Logger.Warning("[ConfigFile] Falha no parâmetro: " + parameter);
+            MessageBox.Show("[ConfigFile] Falha no parâmetro: " + parameter);
         }
     }
 }

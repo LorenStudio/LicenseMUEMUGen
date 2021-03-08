@@ -1,4 +1,5 @@
-![logo](https://user-images.githubusercontent.com/79727598/109392221-b55ea280-78f9-11eb-8067-95abc1d9f9d9.png)
+![logo](https://lorenstudio.com/img/logo.png)
+
 
 # CONTAINS
 ```
